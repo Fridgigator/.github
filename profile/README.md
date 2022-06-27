@@ -4,4 +4,4 @@ We're the Fridgirator team competing in the [IoT Design Competition](https://iot
 
 ## What we're doing:
 
-We're creating a IoT Fridge monitoring tool.
+We're creating a IoT Fridge monitoring tool. It's in an early stage right now, so come back later for more!
